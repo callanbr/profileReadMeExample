@@ -14,4 +14,4 @@ I am a software engineer who is improving my skills in Java / Javascript librari
 
 [1]: https://linkedin.com/in/callanbr
 [2]: mailto:example@example.com
-[3]: https://myportfolio.github.com
+[3]: https://callanbr.github.io/portfolioExample/
